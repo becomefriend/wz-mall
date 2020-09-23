@@ -5,3 +5,19 @@
  wang-moba是参考 bilibili全站之巅 教程而开发的，并在此基础上完善了许多功能和细节，在此感谢大佬的教程！
 
  课程地址：https://www.bilibili.com/video/BV1A4411Y7fi
+# admin后台管理系统
+* 1、使用vue-cli对前台页面进行组件化开发。
+* 2、结合element.ui对后台页面布局。
+* 3、采用node.js和express进行后台架构。
+* 4、使用vue-router实现SPA单页面应用开发。
+* 6、使用axios插件与后台完成各种数据交互，动态展现和用户的互动。
+* 7、使用localStorage对存储token进行登录验证。
+* 8、使用vue2-editor富文本编辑器管理文章编辑页面
+#  web移动端
+* 1、使用vue-cli对前台页面进行组件化开发。
+* 2、使用scss进行样式单元开发。
+* 3、采用node.js和express进行后台架构。
+* 4、使用vue-router实现SPA单页面应用开发。
+* 6、使用axios插件与后台完成各种数据交互，动态展现和用户的互动。
+* 7、使用vue的父子传值封装了页面组件。
+* 8、使用swiper，day.js等插件
