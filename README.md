@@ -3,9 +3,10 @@
  wz-mall是使用 Node.js (Express.js) + Vue.js (Element UI) 全栈开发的王者荣耀手机端官网和管理后台项目
 
  wang-mall是参考 bilibili全站之巅 教程而开发的，并在此基础上完善了许多功能和细节，在此感谢大佬的教程！
- 如果对你有帮助话的帮忙点个star，谢谢！
 
  课程地址：https://www.bilibili.com/video/BV1A4411Y7fi
+ 
+ 如果对你有帮助话的帮忙点个star，谢谢！
 # admin后台管理系统
 * 1、使用vue-cli对前台页面进行组件化开发。
 * 2、结合element.ui对后台页面布局。
