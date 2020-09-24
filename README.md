@@ -29,3 +29,8 @@
 * 6、使用axios插件与后台完成各种数据交互，动态展现和用户的互动。
 * 7、使用vue的父子传值封装了页面组件。
 * 8、使用swiper，day.js等插件
+# serve后台
+* 1、使用express框架搭建后台服务。
+* 2、使用cors框架配置跨域。
+* 3、使用jsonwebtoken框架进行token加密。
+* 4、使用mongoose连接数据库。
